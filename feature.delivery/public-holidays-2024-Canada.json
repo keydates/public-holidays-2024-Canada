@@ -1,0 +1,60 @@
+{
+  "product": "Canada Public Holidays 2024",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-01-01T12:00:00",
+      "endDate": "2024-01-01T12:00:00",
+      "source": "Government of Canada",
+      "product": "Canada Public Holidays 2024",
+      "style": "blue",
+      "description": "Celebration of the first day of the new year"
+    },
+    {
+      "title": "Valentine's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-02-14T12:00:00",
+      "endDate": "2024-02-14T12:00:00",
+      "source": "Government of Canada",
+      "product": "Canada Public Holidays 2024",
+      "style": "pink",
+      "description": "Day to celebrate love and affection"
+    },
+    {
+      "title": "Canada Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-07-01T12:00:00",
+      "endDate": "2024-07-01T12:00:00",
+      "source": "Government of Canada",
+      "product": "Canada Public Holidays 2024",
+      "style": "red",
+      "description": "Celebration of Canada's birthday"
+    },
+    {
+      "title": "Labour Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-09-02T12:00:00",
+      "endDate": "2024-09-02T12:00:00",
+      "source": "Government of Canada",
+      "product": "Canada Public Holidays 2024",
+      "style": "teal",
+      "description": "Celebration of workers and labour movements"
+    },
+    {
+      "title": "Christmas Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-12-25T12:00:00",
+      "endDate": "2024-12-25T12:00:00",
+      "source": "Government of Canada",
+      "product": "Canada Public Holidays 2024",
+      "style": "green",
+      "description": "Celebration of the birth of Jesus Christ"
+    }
+  ]
+}
